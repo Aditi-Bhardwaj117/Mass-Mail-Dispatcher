@@ -1,1 +1,2 @@
 # Mass-Mail-Dispatcher
+Mass Mail Dispatcher is a project designed to simplify and automate the process of sending mass emails. It provides a user-friendly interface for composing emails and allows you to send them to a large number of recipients with just a few clicks. Whether you need to send newsletters, promotional emails, or important announcements, Mass Mail Dispatcher can handle it efficiently. Designed this website using HTML, CSS, Javascript during my one month internship in Exposys Data Labs.
